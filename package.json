@@ -1,0 +1,25 @@
+{
+  "__file": "package.json",
+  "name": "chain-atlas-built-for-base",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "@coinbase/onchainkit": "latest",
+    "@coinbase/cdp-sdk": "latest",
+    "viem": "latest",
+    "base-web": "github:base/web",
+    "base-node": "github:base/node",
+    "base-brand-kit": "github:base/brand-kit",
+    "coinbase-wallet-sdk": "github:coinbase/coinbase-wallet-sdk"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "typescript": "latest"
+  }
+}
