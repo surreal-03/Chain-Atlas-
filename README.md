@@ -115,7 +115,9 @@ SOFTWARE.
 ## Author
 
 GitHub: https://github.com/surreal-03
+
 Email: surreal-03.popes@icloud.com
+
 Public contact: https://x.com/messelaevahype
 
 ---
